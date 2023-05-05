@@ -1,0 +1,9 @@
+a) La commande "git pull" est utilisé pour envoyer les nouvelles modification du projet sur le serveurs distant alors que
+   la commande "git fetch" est utiliser pour effectuer une copie du serveur distant vers l'ordinateur local.
+
+b) Pour l'annuler il suffit juste de revenir sur le dernier commit fait avant les modifications locales non validées.
+
+c) Pour supprimer une branche distante dans git il faut la suprimer sur la machine locale, faire un add; un commit puis un 
+   push vers le serveur distant.
+
+d) Pour voir l'historique des modifivations d'un fichier spécifique il faudra utiliser "git log" avec l'option "--follow". Précised le fichier avant l'option.
